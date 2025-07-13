@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# OS系
+.DS_Store
+
+# npm logs
+npm-debug.log*
